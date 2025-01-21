@@ -1,4 +1,4 @@
-# Project-Revenue-metrics
+# Project - Revenue metrics
 The query analyzes user payments in the system and calculates key indicators:
 
 - MRR (monthly revenue),
